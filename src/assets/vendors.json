@@ -1,0 +1,41 @@
+[{
+		"vendorId": 1,
+		"vendorName": "Flipkart",
+		"vendorCategory": "GDN-0011",
+		"vendorRating": 4.22,
+    "vendorproducts": "Auto",
+    "vendorState": "Delhi"
+	},
+	{
+		"vendorId": 2,
+		"vendorName": "Amazon",
+		"vendorCategory": "GDN-0011",
+		"vendorRating": 4.22,
+    "vendorproducts": "Auto",
+    "vendorState": "Delhi"
+	},
+	{
+		"vendorId": 3,
+		"vendorName": "Flipkart",
+		"vendorCategory": "GDN-0011",
+		"vendorRating": 4.22,
+    "vendorproducts": "Auto",
+    "vendorState": "Delhi"
+	},
+	{
+		"vendorId": 4,
+		"vendorName": "Amazon",
+		"vendorCategory": "GDN-0011",
+		"vendorRating": 4.22,
+    "vendorproducts": "Auto",
+    "vendorState": "Delhi"
+	},
+	{
+		"vendorId": 5,
+		"vendorName": "Flipkart",
+		"vendorCategory": "GDN-0011",
+		"vendorRating": 4.22,
+    "vendorproducts": "Auto",
+    "vendorState": "Delhi"
+	}
+]

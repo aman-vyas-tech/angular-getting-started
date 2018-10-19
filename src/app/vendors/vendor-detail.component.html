@@ -1,0 +1,18 @@
+<div class="card">
+	<div class="card-header">
+		{{pageTitle}}
+	</div>
+	<div class="card-body">
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item">Vendor Name: {{vendor.vendorName}}</li>
+			<li class="list-group-item">Vendor Category: {{vendor.vendorCategory}}</li>
+			<li class="list-group-item">Vendor Product: {{vendor.vendorproducts}}</li>
+			<li class="list-group-item">Vendor Rating:{{vendor.vendorRating}}
+				<pm-star [rating]='vendor.vendorRating'></pm-star>
+			</li>
+		</ul>
+	</div>
+	<div class="card-footer">
+		<button class="btn btn-secondary" [routerLink]="['/vendors']">Go Back</button>
+	</div>
+</div>
